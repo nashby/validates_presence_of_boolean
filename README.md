@@ -1,4 +1,4 @@
-# ValidatesPresenceOfBoolean
+# validates_presence_of_boolean
 
 > If you want to validate the presence of a boolean field (where the real values
 are true and false), you will want to use
